@@ -1,6 +1,7 @@
-## July 26, 2015
+## July 26, 2015 Alyse Lin
 ## https://github.com/alyselin/ProgrammingAssignment2.git
 ## The makeCacheMatrix fuction creates a special "Matrix"
+## I don't like this assignment at all
 
 ## The makeCacheMatrix function creates a special "matrix",
 ## which is really a list containing a function to
