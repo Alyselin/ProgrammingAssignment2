@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## July 26, 2015
+## https://github.com/alyselin/ProgrammingAssignment2.git
+## The makeCacheMatrix fuction creates a special "Matrix"
 
 makeCacheMatrix <- function(x = matrix()) {
 
